@@ -1,0 +1,16 @@
+{
+  "name": "real-time-markdown-editor",
+  "version": "1.0.0",
+  "description": "Realtime Markdown Viewer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sifxtreme/realtime-markdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
